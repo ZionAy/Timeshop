@@ -1,0 +1,10 @@
+.quantity {
+	display: flex;
+	flex-flow: row nowrap;
+}
+
+.quantity .form-control {
+	min-width: 40px;
+	padding-right: 5px;
+	padding-left: 5px;
+}

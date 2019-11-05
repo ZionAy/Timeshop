@@ -1,0 +1,13 @@
+.side-menu, .admin-footer {
+	background-color: #374250;
+}
+
+.admin-footer {
+	border-top: 1px solid rgba(255, 255, 255, 0.12);
+	padding-top: 15px;
+}
+
+.admin-img-table {
+	max-width: 80px;
+	max-height: 80px;
+}
